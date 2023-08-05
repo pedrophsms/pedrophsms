@@ -4,9 +4,11 @@
   <img align="center" alt="Pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Pedro-Php" height="30" width="40" 
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
-  <img align="center" alt="Pedro-Vue" height="30" width="40" 
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vue/vue-original.svg">
-  <img align="center" alt="Pedro-Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
+  <img align="center" alt="Pedro-Vuejs" height="30" width="40" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg">
+  <img align="center" alt="Pedro-Vuetify" height="30" width="40" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuetify/vuetify-original.svg">
+  <img align="center" alt="Pedro-Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg">
   <img align="center" alt="Pedro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
