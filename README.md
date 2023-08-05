@@ -22,5 +22,5 @@
   <br>
 </div>
 
-![Pedrophsms's GitHub stats](https://github-readme-stats-hj3sjcx1n-pedrophsms.vercel.app/api?username=pedrophsms&show_icons=true&theme=radical&hide_border=true&hide_title=true)
-![Top Langs](https://github-readme-stats-hj3sjcx1n-pedrophsms.vercel.app/api/top-langs/?username=pedrophsms&layout=compact)
+![Pedrophsms's GitHub stats](https://github-readme-stats-git-master-pedrophsms.vercel.app/api?username=pedrophsms&show_icons=true&theme=radical&hide_border=true&hide_title=true)
+![Top Langs](https://github-readme-stats-git-master-pedrophsms.vercel.app/api/top-langs/?username=pedrophsms&layout=compact)
