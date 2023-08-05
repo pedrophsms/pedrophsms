@@ -1,4 +1,4 @@
-## Desenvolvedor FullStack Laravel/Vue.js, comunicador, produtor musical e apaixonado por soluções tecnológicas que mudam vidas.
+## Desenvolvedor FullStack Laravel/Vue.js, apaixonado por soluções tecnológicas que mudam vidas.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
