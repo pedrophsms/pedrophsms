@@ -2,8 +2,8 @@
 
 <div style="display: inline_block;"><br>
   <img align="center" alt="Pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Pedro-Php" height="30" width="40" 
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
+  <img align="center" alt="Pedro-Php" height="30" width="50" 
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/640px-PHP-logo.svg.png">
   <img align="center" alt="Pedro-Vuejs" height="30" width="40" 
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg">
   <img align="center" alt="Pedro-Vuetify" height="30" width="40" 
